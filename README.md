@@ -702,19 +702,3 @@ If you are studying these, learn them in this order:
 9. Command Injection - teaches shell metacharacters.
 10. JWT alg none - teaches why crypto decisions must be server-side.
 
-## Evidence Files
-
-Four screenshot proofs were generated:
-
-```text
-evidence/01-sqli-union-search.html.png
-evidence/02-business-logic-negative-cart.html.png
-evidence/03-command-injection-label.html.png
-evidence/04-xxe-svg-upload.html.png
-```
-
-Four submission-ready writeups are here:
-
-```text
-writeups/scalerkart-writeups.md
-```
